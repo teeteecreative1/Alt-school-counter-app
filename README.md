@@ -6,3 +6,6 @@ This project involved developing an application with functionalities for increme
 
 ### Deployment
 The app is deployed on Vercel.
+
+### App Link
+https://alt-school-counter-app.vercel.app/
